@@ -1801,7 +1801,7 @@ hr.invis3 {
 .quadrant-music{
     width: 50%;
     height: 50vh;
-    display: flow-root;
+    display: flex;
     justify-content: center;
     align-items: center;
     background: #0088c0;
