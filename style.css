@@ -508,7 +508,7 @@ div.tab button:hover {
     transition-property: transform, opacity;
 }
 
-.portfolio .blog-meta span {
+.portfolio .blog-meta  {
     border-radius: 3px;
 }
 
@@ -864,8 +864,8 @@ div.tab button:hover {
 .gp-button.btn-primary:hover,
 .gp-button.btn-primary:focus,
 .gp-button.btn-primary {
-    border-color: #DA5333 !important;
-    background-color: #DA5333 !important;
+    border-color: #3B5998 !important;
+    background-color: #3B5998 !important;
 }
 
 .fb-button.btn-primary:focus,
@@ -1729,7 +1729,7 @@ hr.invis3 {
 }
 
 .top-news .tn-title a:hover {
-    color: #FF6F61;
+    color: #3B5998;
 }
 
 .top-news .tn-left {

@@ -64,8 +64,8 @@ a:focus,
 }
 
 .page-title .bg-pink,
-.portfolio .blog-meta span.bg-pink,
-.masonry-box:hover .blog-meta span.bg-pink,
+.portfolio .blog-meta .bg-pink,
+.masonry-box:hover .blog-meta .bg-pink,
 .color-pink a {
     background-color: #deacca !important;
 }
@@ -97,14 +97,15 @@ a:focus,
 .navbar-nav .nav-link.active.color-red-hover,
 .navbar-nav .nav-link.color-red-hover:hover,
 .navbar-nav .nav-link.color-red-hover:focus {
-    color: #ed1b2e !important;
+    color: #0088c0 !important;
 }
 
 .page-title .bg-red,
 .masonry-box:hover .blog-meta span.bg-red,
 .color-red a {
-    background-color: #ed1b2e !important;
-}
+    background-color: #0088c0 !important;
+
+} 
 
 .navbar-nav .nav-link.active.color-yellow-hover,
 .navbar-nav .nav-link.color-yellow-hover:hover,

@@ -708,7 +708,7 @@ samp {
 code {
   padding: 0.2rem 0.4rem;
   font-size: 90%;
-  color: #bd4147;
+  color: #56a0e6;
   background-color: #f7f7f9;
   border-radius: 0.25rem;
 }
@@ -4563,7 +4563,7 @@ tbody.collapse.show {
 
 .card-outline-danger {
   background-color: transparent;
-  border-color: #d9534f;
+  border-color: #56a0e6;
 }
 
 .card-inverse {
@@ -4918,11 +4918,11 @@ a.badge:focus, a.badge:hover {
 }
 
 .badge-danger {
-  background-color: #d9534f;
+  background-color: #56a0e6;
 }
 
 .badge-danger[href]:focus, .badge-danger[href]:hover {
-  background-color: #c9302c;
+  background-color: #56a0e6;
 }
 
 .jumbotron {
@@ -5016,7 +5016,7 @@ a.badge:focus, a.badge:hover {
 .alert-danger {
   background-color: #f2dede;
   border-color: #ebcccc;
-  color: #a94442;
+  color: #56a0e6;
 }
 
 .alert-danger hr {
@@ -5024,7 +5024,7 @@ a.badge:focus, a.badge:hover {
 }
 
 .alert-danger .alert-link {
-  color: #843534;
+  color: #56a0e6;
 }
 
 @-webkit-keyframes progress-bar-stripes {
